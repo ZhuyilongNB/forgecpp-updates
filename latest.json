@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "version": "3.0.0",
+  "encoding": "base64",
+  "url": "https://raw.githubusercontent.com/ZhuyilongNB/forgecpp-updates/main/ForgeCPP-update-3.0.0.zip.b64",
+  "size": 47789,
+  "sha256": "e588dbc9ac92628c44ccba5b66daa03c0fd4abdefa624c9ddd4ce999fc394732",
+  "notes": "新增网页检查更新、确认安装、应用与题库备份、原端口重启和启动失败回滚；保留 ZIP 数据导入。首次需手动覆盖更新一次。尚未在真实 Windows 电脑验证更新器。"
+}
